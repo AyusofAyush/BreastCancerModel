@@ -13,15 +13,27 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 
 Attribute Information:
   ID number
+  
   Diagnosis (M = malignant, B = benign)
+  
   Ten real-valued features are computed for each cell nucleus:
+  
   Radius (mean of distances from center to points on the perimeter)
+  
   Texture (standard deviation of gray-scale values)
+  
   Perimeter
+  
   Area
+  
   Smoothness (local variation in radius lengths)
+  
   Compactness (perimeter² / area — 1.0)
+  
   Concavity (severity of concave portions of the contour)
+  
   Concave points (number of concave portions of the contour)
+  
   Symmetry
+  
   Fractal dimension (“coastline approximation” — 1)
